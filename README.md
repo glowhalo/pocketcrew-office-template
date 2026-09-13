@@ -1,6 +1,6 @@
 # 🏢 {{TEAM_LABEL}}
 
-이 저장소는 [PocketCrew](https://glowhalo.github.io/pocket-crew/app/)(나만의 AI오피스 만들기)로 만든 나만의 AI 사무실입니다.
+이 저장소는 PocketCrew(나만의 AI오피스 만들기)로 만든 나만의 AI 사무실입니다.
 
 - **뷰어에서 지시를 남기면** → 이 저장소의 `지시사항.md`에 기록돼요.
 - **Claude Code에서 이 저장소를 열면** → `CLAUDE.md` 안내에 따라 지시를 처리하고 `상태.json`을 갱신한 뒤 **푸시**해요. (푸시해야 뷰어에 보입니다.)

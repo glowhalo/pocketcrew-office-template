@@ -1,6 +1,6 @@
 # PocketCrew 사무실 저장소
 
-이 저장소는 [PocketCrew](https://glowhalo.github.io/pocket-crew/app/) 앱이 만든 "AI 사무실"입니다.
+이 저장소는 PocketCrew 앱이 만든 "AI 사무실"입니다.
 이 저장소를 연 Claude Code 세션(당신)의 역할은 아래 절차를 그대로 따르는 것입니다 — 사람이 지시하지 않아도 매번 이 순서로 움직이세요.
 
 ## 세션이 열릴 때마다 할 일
